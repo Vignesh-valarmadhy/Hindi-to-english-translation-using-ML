@@ -1,4 +1,4 @@
-# Hindi-to-english-translation-using-ML
+# English to Hindi-translation-using-ML
 
 
 
